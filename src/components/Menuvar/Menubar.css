@@ -1,0 +1,22 @@
+.menu-container{
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+   
+}
+.container{
+    margin-top: 4px;
+    padding: 4px;
+   
+}
+.items{
+    cursor: pointer;
+    font-weight: 20px;
+}
+.logo{
+    cursor: pointer;
+    font-weight: 10px;
+}
+.cart{
+    color:red;
+}
